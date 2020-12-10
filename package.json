@@ -1,0 +1,20 @@
+{
+  "name": "module-federation-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node serve.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "html-webpack-plugin": "^5.0.0-alpha.9",
+    "portfinder": "^1.0.28",
+    "webpack": "^5.10.0",
+    "webpack-dev-server": "^3.11.0"
+  }
+}
