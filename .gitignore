@@ -1,48 +1,4 @@
-# maven ignore
-target/
-*.jar
-*.war
-*.zip
-*.tar
-*.tar.gz
-.flattened-pom.xml
-
-# npm/pnpm/coverage ignore
 node_modules
 dist
 yarn.lock
 package-lock.json
-.coverage
-
-# eclipse ignore
-.settings/
-.project
-.classpath
-
-# idea ignore
-.idea/*
-!.idea/codeStyles
-*.ipr
-*.iml
-*.iws
-
-# visual-studio-code ignore
-.vscode/
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw*
-
-# temp ignore
-*.log
-*.cache
-*.diff
-*.patch
-*.tmp
-
-# system ignore
-.DS_Store
-Thumbs.db
-*.orig
-

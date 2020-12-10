@@ -9,7 +9,7 @@ import("childApp/module").then(res=>{
     console.log(res)
 })
 
-// import("childApp"+separator+"module").then(res=>{
-//     console.log(res)
-// })
+import("childApp"+separator+"module").then(res=>{
+    console.log(res)
+})
 
